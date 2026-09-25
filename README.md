@@ -1,25 +1,28 @@
 # Sébastien Giband
 
-Développeur Full Stack basé dans le Vaucluse.
+Développeur senior PHP/Symfony chez microDON, je travaille sur des applications web utiles et leur qualité dans la durée : tests, maintenabilité, CI/CD et pratiques d’équipe.
 
-Après 7 ans dans la formation audiovisuelle et l'accompagnement à la transition numérique, je me suis reconverti au développement web en 2019.
+Je m’intéresse aussi au développement assisté par IA et à l’enablement des équipes : partir des usages réels, expérimenter avec méthode, puis partager des pratiques utiles, mesurables et adaptées au contexte.
 
-Depuis, j'ai travaillé sur des projets variés : solutions SaaS pour collectivités et experts-comptables, plateformes e-commerce, applications de livraison collaborative. Au-delà de la technique, je cherche à comprendre l'impact métier et utilisateur de ce que je développe.
+Mon parcours a commencé dans la formation audiovisuelle et l’accompagnement à la transition numérique. Cette expérience nourrit encore ma façon de développer : comprendre les besoins, rendre les outils accessibles et aider les équipes à progresser.
 
-### Stack
+## Ce sur quoi je travaille
 
-**Backend :** PHP, Symfony, API Platform  
-**Frontend :** React, Vue.js, TypeScript  
-**DevOps :** Docker, Kubernetes, CI/CD, GitLab  
-**Qualité :** PHPUnit, Jest, PHPStan, SonarQube
+- **Développement produit** : PHP, Symfony, React, TypeScript
+- **Qualité logicielle** : tests, refactoring, maintenabilité, intégration continue
+- **DevOps** : Docker, Kubernetes, CI/CD
+- **Développement agentique** : expérimentation, contexte projet, garde-fous et usages d’équipe
+- **Transmission** : documentation, retours d’expérience et accompagnement
 
-### Quelques réalisations
+## Projets et ressources
 
-- Migrations Symfony (3.4 → 6.x) et PHP (5.6 → 8.x)
-- Mise en place de pipelines CI/CD et pratiques DevOps en équipe
-- Migration frontend Twig → React
-- Intégration d'APIs tierces (Stripe, Microsoft Graph, Odoo)
+- [postcursors.dev](https://postcursors.dev) — notes et ressources sur le développement agentique, l’enablement et la gouvernance IA
+- [postcursors-examples](https://github.com/SEbGib/postcursors-examples) — exemples de configuration et de garde-fous pour les outils de développement assisté par IA
+- [demo_masterclass](https://github.com/SEbGib/demo_masterclass) — démonstration de développement assisté par IA avec Symfony, React et Docker
+- [minimal-dotfiles](https://github.com/SEbGib/minimal-dotfiles) — environnement de développement personnel
 
----
+## Parcours
 
-[LinkedIn](https://www.linkedin.com/in/sebastien-giband-a0470a179/)
+Après sept ans dans la formation audiovisuelle et l’accompagnement numérique, je me suis reconverti dans le développement web en 2019. J’ai depuis contribué à des produits SaaS, des plateformes e-commerce et des applications de livraison collaborative, avec une attention constante à la qualité et au travail collectif.
+
+[LinkedIn](https://www.linkedin.com/in/sebastien-giband-postcursors/) · [postcursors.dev](https://postcursors.dev)
